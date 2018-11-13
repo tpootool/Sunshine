@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
          */
         mWeatherTextView = (TextView) findViewById(R.id.tv_weather_data);
 
-        // COMPLETED (4) Delete the dummy weather data. You will be getting REAL data from the Internet in this lesson.
+        // COMPLETED (4) Delet data. You will be getting REAL data from the Internet in this lesson.
 
         // COMPLETED (3) Delete the for loop that populates the TextView with dummy data
 
